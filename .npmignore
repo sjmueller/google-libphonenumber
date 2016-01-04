@@ -1,3 +1,4 @@
 /bin
 bower.json
 build.xml
+.babelrc
